@@ -51,4 +51,5 @@ Tech Stack:
   <li>NumPy (for numerical calculations)</li>
   <li>Model Training</li>
 </ol>
+
 The machine learning model was trained using a dataset of vehicles with known MPG values. The model learns patterns and relationships between the input parameters (displacement, horsepower, weight, and acceleration) and the corresponding MPG values.
